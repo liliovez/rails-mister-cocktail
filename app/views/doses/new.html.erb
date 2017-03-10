@@ -16,13 +16,10 @@
 <% end %>
 <h3>List of existing ingredients</h3>
 <% @cocktail.doses.each do |dose| %>
-    <li>
-      <%= dose.description %>  <%= dose.ingredient.name %>
-    </li>
+    <li><%= dose.description %>  <%= dose.ingredient.name %></li>
   <% end %>
 
 
-<button class="btn btn-primary" <%= link_to 'Back', cocktails_path %>
-
+<%= link_to 'Back', cocktail_path(@cocktail), :class=>"btn btn-primary"%>
 
 </div>

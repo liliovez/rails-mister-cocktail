@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  get 'pages/about'
-
+  mount Attachinary::Engine => "/attachinary"
+  delete "cocktails/:id", to: "cocktails#destroy"
   root to: "pages#about"
   resources :cocktails do
     resources :doses, only: [:create, :new]

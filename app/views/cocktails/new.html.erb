@@ -1,6 +1,12 @@
-<h1>New Cocktail</h1>
+<div class="container">
+  <h1>New Cocktail</h1>
 
-<%= render 'form', cocktail: @cocktail %>
 
+<div class="row">
+  <%= render 'form', cocktail: @cocktail %>
 
-<button class="btn btn-primary" <%= link_to 'Back', cocktails_path %>
+  <br>
+
+  <%= link_to 'Back', cocktails_path %>
+  </div>
+</div>
