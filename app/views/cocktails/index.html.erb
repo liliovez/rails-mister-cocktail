@@ -1,11 +1,23 @@
-<h1>Cocktails</h1>
 
 <div class="container">
+<h1>Cocktails</h1>
   <div class="row">
-    <% @cocktails.each do |restaurant| %>
-    <div class="col-xs-12 col-sm-6 col-sm-3">
-      <h3><%= restaurant.name %></h3>
+    <% @cocktails.each do |cocktail| %>
+    <div class="col-xs-12 col-sm-4 small-padded">
+      <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url(http://placehold.it/350x150);">
+        <div class="card-description">
+          <h2> <%= cocktail.name %> </h2>
+        </div>
+        <a class="card-link" href="#" ></a>
+      </div>
     </div>
-    <% end %>
-  </div>
+  <% end %>
 </div>
+
+
+<br>
+
+<%= link_to 'Add a cocktail', new_cocktail_path %>
+
+</div>
+

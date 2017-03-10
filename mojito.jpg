@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie10 lt-ie9 no-js" lang="en"><![endif]-->
+<!--[if IE 9]><html class="lt-ie10 ie9 no-js" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=1024">
+
+	<!-- Quantcast Tag, part 1 -->
+	<script type="text/javascript">
+		var _qevents = _qevents || [];
+		(function() {
+			var elem = document.createElement('script');
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+						+ ".quantserve.com/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+		})();
+	</script>
+
+	<meta http-equiv="content-language" content="en-gb">
+<meta property="og:title" content="The Bar UK" />
+<meta property="og:description" content="Make great drinks for friends and family. Learn how to mix your favourite spirits, and create classic cocktails using recipes and advice on thebar.com" />
+<meta property="og:site_name" content="The Bar UK" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://uk.thebar.com" />
+<meta property="og:image" content="https://uk.thebar.com/resources/img/social/thebar-logo-648x504.jpg" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:locale:alternate" content="en_GB" />
+
+
+<link rel="alternate" href="https://uk.thebar.com/s3/horizonlives3/pr102541/assets/en-gb/Images/AY/34660_dia_1425_950_don_julio_mojito_37_4102069A0000001gyNVIAY.jpg" hreflang="en_GB" />
+ 
+        <link rel="canonical" href="https://uk.thebar.com/s3/horizonlives3/pr102541/assets/en-gb/Images/AY/34660_dia_1425_950_don_julio_mojito_37_4102069A0000001gyNVIAY.jpg" />
+
+    <title>Page not found | The Bar UK</title>
+
+
+	<link rel="stylesheet" href="/resources/css/thebar-wide.1000.css" type="text/css" />
+
+
+		
+
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Gudea:400,700,400italic">
+
+	<!-- Campaign css -->
+	
+
+	<!--[if lt IE 9]><script type="text/javascript" src="/resources/js/libs/polyfills/html5printshiv.1000.js"></script><![endif]-->
+	<!-- Mobile & Fav Icons -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://uk.thebar.com/resources/img/favicons/theBar_114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://uk.thebar.com/resources/img/favicons/theBar_72x72">
+<link rel="apple-touch-icon-precomposed" href="https://uk.thebar.com/resources/img/favicons/theBar_57x57.png">
+<link rel="icon" type="image/x-icon" href="https://uk.thebar.com/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://uk.thebar.com/favicon.ico">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="theBar.com">
+
+<!-- Windows 8 -->
+<meta name="application-name" content="theBar.com"/>
+<meta name="msapplication-TileColor" content="#f65a17"/>
+<meta name="msapplication-TileImage" content="https://uk.thebar.com/resources/img/favicons/theBar_114x114.png"/>
+
+<!-- Windows 7 -->
+<meta name="msapplication-starturl" content="https://uk.thebar.com" />
+<meta name="msapplication-navbutton-color" content="#f65a17" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-tooltip" content="theBar.com" />
+
+<!-- Jump list -->
+<meta name="msapplication-task" content="name=Spirits;action-uri=https://uk.thebar.com/spirits;icon-uri=https://uk.thebar.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Occasions;action-uri=https://uk.thebar.com/cocktail-occasions;icon-uri=https://uk.thebar.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Recipes;action-uri=https://uk.thebar.com/cocktail-recipes;icon-uri=https://uk.thebar.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Ingredients;action-uri=https://uk.thebar.com/cocktail-ingredients;icon-uri=https://uk.thebar.com/favicon.ico" />
+
+<!-- Open Search -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://uk.thebar.com/osd.xml" title="The Bar UK">
+<link rel="search" type="application/opensearchdescription+xml" href="https://uk.thebar.com/opensearch.xml" title="The Bar UK">
+
+<!-- Twitter -->
+<meta name="twitter:site" content="@thebar">
+
+	<!--[if gt IE 8]><!--><script type="text/javascript" src="/resources/js/libs/jquery.min.1000.js"></script><!--<![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/resources/js/libs/jquery.min.1000.js"></script><!--<![endif]-->
+
+	<script>var dg_locale='en-gb';</script>
+	<script src="//footer.diageohorizon.com/dfs/master.js"></script>
+</head>
+<body id="site-desktop">
+	<noscript>
+		<style>
+			.noScript {
+				position: fixed !important;
+				left: 0px;
+				right: 0px;
+				top: 0px;
+				bottom: 0px;
+				z-index: 100001;
+				background: #fff url(http://www.diageoagegate.com/nojs-bg.png) center center no-repeat;
+			}
+		</style>
+		<div class="noScript"></div>
+	</noscript>
+	<script>
+		document.body.parentElement.className = document.body.parentElement.className.replace('no-js', 'js');
+		window.environment = 'desktop';
+	</script>
+
+	<header class="masthead" role="banner">
+
+		
+
+<aside class="notifications notifications-cookie">
+
+    <article class="container container-padding clearfix">
+        <h3 class="notification-title"><strong>Our use of cookies</strong></h3>
+
+        <div class="notification-content">
+            <p class="desktop">We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we’ll assume that you are happy to receive all cookies on this website. <a href="/content/privacy">Privacy & Cookies Notice</a>.</p>
+            <p class="mobile">This site uses cookies. If you continue, we’ll assume you accept cookies. <a href="/content/privacy">Privacy & Cookies Notice</a>.</p>
+        </div>
+		
+        <footer class="notification-action">
+            <a class="btn btn-primary">ACCEPT AND CLOSE</a>
+        </footer>
+
+    </article>
+
+</aside>
+
+		<div class="masthead-inner inner-fluid clearfix">
+			<div class="masthead-logo" itemscope itemtype="http://schema.org/Organization">
+	<a href="/" class="ir" title="thebar.com" itemprop="url logo">thebar.com</a>
+</div>
+
+
+				<form action="/search" class="masthead-search search-module" method="GET">
+					<input type="search" name="query" maxlength="50" class="search-module-input" tagify="true" placeholder="Search Here" data-attach="TMW.AutoComplete" data-tmw.autocomplete-options='{"config":"TMW.autoCompleteConfig"}'>
+					<input type="submit" value="Search" class="btn-primary search-module-btn">
+				</form>
+<!--Donut#42410DB604CFCEF158BB7CB1F0B4A9EEED9EBA4A00716F0EA9124B4CAB8A7889664E4AB46BC8C40D1524E346ECCB0C502F7B92EEF08E38932A023EFA5ECBE4CECBEAB4E89CDC30FC53C98E7657476D71FCAED1A1005E3523CE8DF88BA8C5B04825075DF955ED4CCD227B6B05A980BB996B97A88004BD82293035EA407628F612BD336077F564D3704E0274DCC9FE21ED770BEEC517F2527E2351B63B257E63257EBBDC68BF465E52F7988221D3B113DCEE0C77B271BAA26820DA2E814AC7C1CF4A22F1123D8918980AB4032EF0E31B742CB45D02C4C9C78DD502A257D5D486A89A2B43D495F3EA677379174FA1A2AE3AC43075372EBCCB46579A0CF797693AC1C5296002886D5FF19D7A2A99BA0D842B6FE5D52E14AF4A4780D959519612F4033157511C411F82776E0B0904E92FC522BD801F394F4ADF625EC10C2E0B0873691EDFC1ADD2DF8F492B8ED5775548142457B3821878F5DD10445E81F409E64CFE2C3D2FE835AB78E56D9BACA0501E5841E8DFD31386D45EF43EB90FDDE867526F2F018CB0901E69260F8D2584FD81D2A5EBCA275ED30CF094E7011F93770966B9EE5E82FEAC5D9A275CBA7DA8F39C3FEB64A38D1DDA3E5BC1CBCE90323871868FD8E2728C0BDA0233E8B142AFCAA7F6126515EA73A7ABF6F60799435F0B5B97588FCBE804D9D9D6871DD9A804B94B6896D18BA56B503C287B5429D4F83E9F41C2B0016E400FAC071CF2DDB7D6856E1123B0293B0299EC83DAAD9580805F50B213#-->
+
+<nav class="masthead-nav">
+	<ul>
+		<li class="masthead-nav-item">
+	<a href="/spirits" >Spirits</a>
+	<div class="masthead-nav-sub-container">
+		<div class="masthead-nav-sub-container-inner clearfix">
+		    <ul class="masthead-nav-sub-nav">
+		            <li>
+		                <a href="/spirits/whisky">
+		                    <img src="/assets/en-gb/promoted-bottles-whisky.png" alt="" style="max-width: 150px;">
+		                    <div>Whisky</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/spirits/vodka">
+		                    <img src="/assets/en-gb/vodka_lineup.png" alt="" style="max-width: 150px;">
+		                    <div>Vodka</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/spirits/gin">
+		                    <img src="/assets/en-gb/spirits/gin/41394_dia_gins_250x420.png" alt="" style="max-width: 150px;">
+		                    <div>Gin</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/spirits/rum">
+		                    <img src="/assets/en-gb/categories/rum-new.png" alt="" style="max-width: 150px;">
+		                    <div>Rum</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/spirits/liqueurs">
+		                    <img src="/assets/en-gb/spirits/liqueurs/the-bar_250x420_gb_original_irish_cream_dd_menu.png" alt="" style="max-width: 150px;">
+		                    <div>Liqueurs</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/spirits/speciality">
+		                    <img src="/assets/en-gb/categories/speciality-new.png" alt="" style="max-width: 150px;">
+		                    <div>Speciality</div>
+		                </a>
+		            </li>
+		    </ul>
+			    <a class="masthead-see-more btn-primary btn-seemore" href="/spirits">See all</a>
+		</div>
+	</div>
+</li>
+<li class="masthead-nav-item">
+	<a href="/cocktail-occasions" >Occasions</a>
+	<div class="masthead-nav-sub-container">
+		<div class="masthead-nav-sub-container-inner clearfix">
+		    <ul class="masthead-nav-sub-nav">
+		            <li>
+		                <a href="/cocktail-occasions/winter-cocktails">
+		                    <img src="/assets/en-gb/categories/occasions/winter-warm-cocktail-recipes-navmenu1.png" alt="" style="max-width: 150px;">
+		                    <div>Winter Cocktails</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-occasions/cocktail-parties">
+		                    <img src="/assets/en-gb/categories/occasions/cocktail-parties.png" alt="" style="max-width: 150px;">
+		                    <div>Cocktail parties</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-occasions/house-parties">
+		                    <img src="/assets/en-gb/categories/occasions/house-parties.png" alt="" style="max-width: 150px;">
+		                    <div>House Parties</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-occasions/valentines-day">
+		                    <img src="/assets/en-gb/categories/occasions/valentines_day.png" alt="" style="max-width: 150px;">
+		                    <div>Valentine’s Day</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-occasions/nights-in">
+		                    <img src="/assets/en-gb/categories/occasions/relaxing-drinks.png" alt="" style="max-width: 150px;">
+		                    <div>Nights In</div>
+		                </a>
+		            </li>
+		    </ul>
+		</div>
+	</div>
+</li>
+<li class="masthead-nav-item">
+	<a href="/cocktail-recipes" >Recipes</a>
+	<div class="masthead-nav-sub-container">
+		<div class="masthead-nav-sub-container-inner clearfix">
+		    <ul class="masthead-nav-sub-nav">
+		            <li>
+		                <a href="/cocktail-recipes/classic-cocktails">
+		                    <img src="/assets/en-gb/categories/recipes/classic-cocktails.png" alt="" style="max-width: 150px;">
+		                    <div>Classic cocktails</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-recipes/easy-cocktails">
+		                    <img src="/assets/en-gb/categories/recipes/classic-serves.png" alt="" style="max-width: 150px;">
+		                    <div>Easy Cocktails</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-recipes/lower-calorie-cocktails">
+		                    <img src="/assets/en-gb/categories/recipes/lower_calorie.png" alt="" style="max-width: 150px;">
+		                    <div>Lower Calorie Cocktails</div>
+		                </a>
+		            </li>
+		            <li>
+		                <a href="/cocktail-recipes/mocktails">
+		                    <img src="/assets/en-gb/categories/recipes/mocktails-glass.png" alt="" style="max-width: 150px;">
+		                    <div>Mocktails</div>
+		                </a>
+		            </li>
+		    </ul>
+			    <a class="masthead-see-more btn-primary btn-seemore" href="/cocktail-recipes">See all</a>
+		</div>
+	</div>
+</li>
+
+<li class="masthead-nav-item">
+    <a href="/cocktail-ingredients" class="">Ingredients</a>
+    <div class="masthead-nav-sub-container">
+        <div class="masthead-nav-sub-container-inner slim" data-attach="TMW.MultiSelect" data-tmw.multiselect-options='{"list":".ingredients-list","actions":".masthead-ingredients-actions","queryUrl":"/cocktail-ingredients?spirits={spirits}&mixers={mixers}&garnishes={garnishes}&type={type}"}'>
+            <h3 class="masthead-nav-sub-title"><strong>Pick your ingredients</strong></h3>
+            <p class="masthead-nav-sub-copy">What would you like to make today? Choose the spirits, mixers and garnish you already have at home and we’ll find recipes that match. Or enter in your combination of ingredients to select a great drink. It’s time to get mixing!</p>
+
+            <div class="ingredients-list-wrapper">
+
+                <ul class="ingredients-list ingredients-list-spirits" data-type="spirit">
+                    <li class="ingredients-list-title">Popular spirits</li>
+
+                            <li data-value="Gin">Gin</li>
+                            <li data-value="Rum">Rum</li>
+                            <li data-value="Speciality">Speciality</li>
+                            <li data-value="Vodka">Vodka</li>
+                            <li data-value="Whisky">Whisky</li>
+
+                    <li class="ingredients-list-footer"><a href="/cocktail-ingredients?type=spirits" class="btn-seemore btn-multiselect" data-type="spirits">See all spirits</a></li>
+                </ul>
+
+                <ul class="ingredients-list ingredients-list-mixers" data-type="mixer">
+                    <li class="ingredients-list-title">Popular mixers</li>
+                            <li data-value="Cola">Cola </li>
+                            <li data-value="Lemonade">Lemonade </li>
+                            <li data-value="Soda Water">Soda Water </li>
+                            <li data-value="Tonic Water">Tonic Water </li>
+                            <li data-value="Orange Juice">Orange Juice </li>
+                    <li class="ingredients-list-footer"><a href="/cocktail-ingredients?type=mixers" class="btn-seemore btn-multiselect" data-type="mixers">See all mixers</a></li>
+                </ul>
+
+                <ul class="ingredients-list ingredients-list-garnishes" data-type="mixer">
+                    <li class="ingredients-list-title">Popular garnishes</li>
+                            <li data-value="Lime Wedge">Lime Wedge </li>
+                            <li data-value="Lemon Wedge">Lemon Wedge </li>
+                            <li data-value="Orange Wedge">Orange Wedge </li>
+                            <li data-value="Mint Leaves">Mint Leaves </li>
+                            <li data-value="Olive">Olive </li>
+                    <li class="ingredients-list-footer"><a href="/cocktail-ingredients?spirits=all&mixers=all&garnishes=all&type=garnishes" class="btn-seemore btn-multiselect" data-type="garnishes">See all garnishes</a></li>
+                </ul>
+            </div>
+
+            <div class="masthead-ingredients-actions">
+                <div class="clear-all" data-icon="&#57364;">Clear all</div>
+                <a href="/cocktail-ingredients?type=spirits" class="show-recipes btn-multiselect" data-icon="&#57360;" data-type="spirits">Show recipes</a>
+            </div>
+
+
+        </div>
+    </div>
+</li>
+
+		<li class="masthead-nav-item">
+    <a href="https://uk.thebar.com:443/account/join" data-attach=TMW.Fetch class=masthead-nav-mybar data-tmw.fetch-options={&quot;path&quot;:&quot;https://uk.thebar.com:443/account/join&quot;,&quot;display&quot;:&quot;lightbox&quot;,&quot;callback&quot;:&quot;TMW.Recaptcha.insert(&#39;recaptchaJoin&#39;,&#39;6LexnPMSAAAAALSSBfB1MgOYXY6QFttpQrMXFQb0&#39;)&quot;}  >Join</a>
+</li><li class="masthead-nav-item">
+    <a href="https://uk.thebar.com:443/account/login" data-attach=TMW.Fetch class=masthead-nav-mybar data-tmw.fetch-options={&quot;path&quot;:&quot;https://uk.thebar.com:443/account/login&quot;,&quot;display&quot;:&quot;anchorbox&quot;}  >Login</a>
+</li>
+	</ul>
+</nav>
+<!--EndDonut-->
+		</div>
+	</header>
+
+	<div class="page-wrapper">
+		
+
+    <div class="bg-full">
+        <img src="/assets/en-gb/069a0000000opddias.jpg?maxheight=950&amp;maxwidth=1425&amp;quality=80" style="display: block; width: 100%" alt="" />
+        <div class="mask"></div>
+    </div>
+
+		
+
+
+<section class="error-container container container-padding-bottom">
+	<div class="error-content">
+		<h1 class="giga">Sorry, but the page you requested does not exist.</h1>
+		<h3 class="mt2 mb1">Or perhaps you're looking for one of these:</h3>
+
+		<ul class="link-list">
+			<li><a href="/spirits">Spirits</a></li>
+			<li><a href="/cocktail-occasions">Occasions</a></li>
+			<li><a href="/cocktail-recipes">Recipes</a></li>
+			<li><a href="/cocktail-ingredients">Ingredients</a></li>
+			<li><a href="/sitemap">Sitemap</a></li>
+		</ul>
+		<!-- <a href="/" class="btn-primary" onclick="history.back(-1)">Back</a> -->
+	</div>
+    <img src="/resources/img/404.jpg" class="error-img" alt="Slice of lemon">
+	
+</section>
+
+
+	</div>
+
+	<footer class="page-foot" role="contentinfo">
+	
+	<div class="page-foot-external">
+		<span>Follow</span>
+		
+    <ul class="share-list">
+        <li><a href="https://www.facebook.com/thebar.GB" target="_blank" class="share-sq-facebook" data-icon="&#xE023;"><span class="visuallyhidden">Facebook</span></a></li>
+        <li><a href="https://twitter.com/thebar_GB" target="_blank" class="share-sq-twitter" data-icon="&#57351;"><span class="visuallyhidden">Twitter</span></a></li>
+        <li><a href="https://www.youtube.com/user/thebarGB" target="_blank" class="share-sq-youtube" data-icon="&#57381;"><span class="visuallyhidden">YouTube</span></a></li>
+        <li><a href="https://instagram.com/thebargb" target="_blank" class="share-sq-instagram" data-icon="&#57380;"><span class="visuallyhidden">Instagram</span></a></li>
+    </ul>
+
+	</div>
+    <div class="footer-border">
+        <div class="footer-headings">
+            <span class="footer-headings-legal">Legal</span>
+            <span class="footer-headings-navigation">Information</span>
+            <span class="footer-headings-help">Help</span>
+        </div>
+        <div id="footer">
+        </div>
+    </div>
+</footer>
+
+
+
+
+	
+	<script type="text/javascript" src="/resources/js/compiled/_app-wide.min.1000.js"></script>
+
+	
+	
+	
+	<script>
+		$.extend($.fn.pickadate.defaults, {
+			monthsFull: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+			monthsShort: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec' ],
+			weekdaysFull: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday' ],
+			weekdaysShort: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+			today: 'Today',
+			clear: 'Clear',
+			firstDay: 1,
+			format: 'd mmmm, yyyy',
+			formatSubmit: 'dd/mm/yyyy',
+			min: [1917, 2, 10],
+			max: [1999, 2, 10],
+		});
+
+		TMW.autoCompleteConfig = {
+			prefetch: '/search/autocompleteprefetch',
+			remote: { url: '/search/autocomplete?query=term', wildcard: 'term' },
+			template: '<p class="result-type">{resultType}</p><p class="result-name">{value}</p>',
+			limit: 6,
+			engine: TMW.Templtr
+		};
+	</script>
+	<!-- Pingdom -->
+	<script>
+		var _prum = [
+			['id', '5289ed4babe53dad02000000'],
+			['mark', 'firstbyte', (new Date()).getTime()]
+		];
+		(function() {
+			var s = document.getElementsByTagName('script')[0], p = document.createElement('script');
+			p.async = 'async';
+			p.src = '//rum-static.pingdom.net/prum.min.js';
+			s.parentNode.insertBefore(p, s);
+		})();
+	</script>
+
+
+	
+	
+	<script>
+        //var fourohfour = window.location.pathname;
+
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'event': '404',
+            'pagePath' : '/404' + window.location.pathname
+        });
+
+	</script>
+
+
+	<!--Donut#3E5BC4BF6C9B77F46D431062DDFC0902069811C903AA4AFA106C24A5BE67C4857286AD1E521DC292E429F1CCE8AC6F91898FFE5A52691BECBF24C8A190532142114E16E1CE1036AB4F032AFF5DCC7C37AFFB9778A051E39E61668AB4C31CC3984FB6ABDC09FF81F7F43978CC19A3EB9BE0277E6D4E22FC259F70455E82B9B127E05AE0C7F69DFA4F2A51C26355C1E758C613C8E87591D78A8439A639A90150419D326F397209F9F4CCF277F974EFAC4E1E381D450B5660CE3EAD42069F99D91D1A8DD192BFC71F5586F503ECF47E9163E497167D3BE29C028E819D803A27F98FD24181A15B9F45119BE54DEB5C5B4F028BC3B1D6A6A4CCB13309C31F0E1A2FE218F6D3D9A951DF741043263E12528A89503F06DFFE6A61C8D3CF2A904EED25CA14A4EE33E6AD7A96C63DA4F91528C2292E3E353964705DF01DC7697ACF575599653BD4A55846F212AA841967C4D9287D1E7C20F06F1EF5D2FE6C187CBF7916B6164C72F6197C3AD8BF6AAB6226620BE5F1E5349A9C30FC0FE098998C91A10982617F023998706C4D5F7471746C2DD7F6EB9E39D7C09FB722104F449534C8875D4B1009B01832EDC97596EBD8C9C58302342CED1AA759D501BAA1C21F6C088C8940C749FB646B32F195D6A392D96DA59470489BDC850C2FE7E67044CD94DD7790B1DCD8DBDA56A2C3E380E6CA8D88FF91D6E2648FF7FECADBC02B58CC8D1F39D2523071E252584922684518C4411D69D4#-->
+
+<script>
+    
+
+    </script><!--EndDonut-->
+
+	<script type="text/javascript">
+
+		// New DAGT GTM object
+		window.dataLayer = window.dataLayer || [];
+
+		setTimeout(function() {
+			var a = document.createElement("script");
+			var b = document.getElementsByTagName("script")[0];
+			a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/4909.js?" + Math.floor(new Date().getTime() / 3600000);
+			a.async = true;
+			a.type = "text/javascript";
+			b.parentNode.insertBefore(a, b)
+		}, 1);
+	</script>
+
+	<input class="survey-form is-hidden" type="hidden" data-attach="TMW.Fetch" data-tmw.fetch-options='{"path":"https://uk.thebar.com/survey","display":"lightbox","callback":"TMW.survey.setEvents()"}' />
+	<input id="js-surveyActive" class="is-hidden" type="hidden" value="False" />
+	<input class="current-visitor is-hidden" type="hidden" data-count="0" />
+	<input class="js-visible-tablet is-hidden" type="hidden" />
+	<input class="js-survey-rate is-hidden" type="hidden" data-rate='{ "reportInterval" : 30 , "idleTimeout" : 120 , "desktopCount" : 2, "tabletCount" : 4, "mobileCount" : 8 }' />
+
+</body>
+</html>

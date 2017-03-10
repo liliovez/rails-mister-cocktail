@@ -1,2 +1,28 @@
-<h1>Doses#new</h1>
-<p>Find me in app/views/doses/new.html.erb</p>
+<div class="container">
+<h1>Description for <%= @cocktail.name %></h1>
+
+<%= simple_form_for [@cocktail, @dose] do |f| %>
+  <%= f.error_notification %>
+
+  <div class="form-inputs text-center">
+    <%= f.input :description %>
+    <%= f.input :ingredient, collection: Ingredient.all, prompt: "Select Ingredient" %>
+  </div>
+
+  <div class="form-actions">
+    <%= f.submit "add a dose", class: "btn btn-primary" %>
+  </div>
+
+<% end %>
+<h3>List of existing ingredients</h3>
+<% @cocktail.doses.each do |dose| %>
+    <li>
+      <%= dose.description %>  <%= dose.ingredient.name %>
+    </li>
+  <% end %>
+
+
+<button class="btn btn-primary" <%= link_to 'Back', cocktails_path %>
+
+
+</div>
