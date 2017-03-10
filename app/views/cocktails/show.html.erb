@@ -6,7 +6,7 @@
     </div>
     <div class="col-xs-12 col-sm-6">
       <div class="row">
-      <h1><strong>Description:</strong></h1>
+        <h1><strong>Description:</strong></h1>
       <ul id= "cocktail_dose"> <% @cocktail.doses.each do |dose| %>
         <li><%=dose.description %>  <%= dose.ingredient.name%> </li>
       </ul>
